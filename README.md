@@ -16,7 +16,7 @@
    - **HE**: Write prompts for professional tasks (e.g., generate website copy or a design brief).  
 
 3. **Specialized AI Tools by Profession**  
-   - Overview of tools:  
+   - Overview of tools:    
      - **Design**: MidJourney, DALL·E, Adobe Firefly.  
      - **Developers**: GitHub Copilot, CodeLlama, AI2sql.  
      - **Audio/Video**: Runway, ElevenLabs, Suno AI.  
@@ -39,6 +39,9 @@
    - ChatGPT + Google Sheets (automating tasks).  
    - **For Developers**: Basic API calls (OpenAI, Anthropic).  
    - **HE**: Write a Python script to call the OpenAI API for content generation.  
+
+4. **MCP**  
+   - A remplir
 
 ---
 
