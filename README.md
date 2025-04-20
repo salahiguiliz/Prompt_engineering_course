@@ -5,7 +5,8 @@
 #### **AI Fundamentals & Basic Prompting**  
 **Objective**: Understand the AI ecosystem and the basics of prompting.  
 1. **Introduction to Generative AI**  
-   - AI, Deep Learning, and LLMs: Simplified explanations.  
+   - AI, Deep Learning, and LLMs: Simplified explanations.
+   - GenAI types.
    - Differences between ChatGPT, Gemini, Claude, and open-source models (Llama, Mistral).  
    - **Hands-on Exercise (HE)**: Compare responses from different LLMs (e.g., ChatGPT vs. Gemini).  
 
